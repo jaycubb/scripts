@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# weather.sh
+#export CUSTOM_WEATHER_WUNDERGROUND_API_KEY
+#export CUSTOM_WEATHER_LOCATION
+export CUSTOM_WEATHER_DAYS="7"
